@@ -1,6 +1,6 @@
 {
   "name": "sub-agents-mcp",
-  "version": "0.1.11",
+  "version": "0.1.12",
   "description": "Define task-specific AI sub-agents in Markdown for any MCP-compatible tool.",
   "main": "src/index.ts",
   "scripts": {
